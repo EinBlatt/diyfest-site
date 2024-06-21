@@ -11,19 +11,19 @@ import { ThemedButton } from "../ThemedButton";
 
 const links = [
   {
-    label: "Features",
+    label: "关于纪节",
     href: "#Features",
   },
   {
-    label: "Pricing",
+    label: "申请节日",
     href: "#Pricing",
   },
   {
-    label: "Wall of Love",
+    label: "谁在使用",
     href: "#WallOfLove",
   },
   {
-    label: "FAQ",
+    label: "常见问题",
     href: "#FAQ",
   },
 ];
@@ -48,7 +48,7 @@ const Header = () => {
               height={32}
             />
             <span className="text-gray-950 dark:text-gray-300 hidden md:block">
-              Landing Page Boilerplate
+              纪节
             </span>
           </Link>
         </div>
