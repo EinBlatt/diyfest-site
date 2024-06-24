@@ -14,18 +14,18 @@ const links = [
     label: "关于纪节",
     href: "#Features",
   },
-  {
-    label: "申请节日",
-    href: "#Pricing",
-  },
+  // {
+  //   label: "申请节日",
+  //   href: "#Pricing",
+  // },
   {
     label: "谁在使用",
     href: "#WallOfLove",
   },
-  {
-    label: "常见问题",
-    href: "#FAQ",
-  },
+  // {
+  //   label: "常见问题",
+  //   href: "#FAQ",
+  // },
 ];
 
 const Header = () => {
@@ -60,7 +60,7 @@ const Header = () => {
                 href={link.href}
                 aria-label={link.label}
                 title={link.label}
-                className="tracking-wide transition-colors duration-200 font-norma"
+                className="tracking-wide transition-colors duration-200 font-norma "
               >
                 {link.label}
               </Link>
@@ -102,7 +102,7 @@ const Header = () => {
                         height={32}
                       />
                       <span className="ml-2 text-xl font-bold tracking-wide text-gray-950 dark:text-gray-300">
-                        Landing Page
+                        纪节
                       </span>
                     </Link>
                   </div>
@@ -135,7 +135,7 @@ const Header = () => {
                   </ul>
                 </nav>
                 <div className="pt-2">
-                  <div className="py-2 font-bold">Links</div>
+                  {/* <div className="py-2 font-bold">Links</div> */}
                   <div className="flex items-center gap-x-5 justify-between">
                     <HeaderLinks />
                     <div className="flex items-center justify-end gap-x-5">

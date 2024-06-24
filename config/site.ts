@@ -1,7 +1,5 @@
 import { SiteConfig } from "@/types/siteConfig";
-import { BsGithub, BsTwitterX, BsWechat } from "react-icons/bs";
-import { MdEmail } from "react-icons/md";
-import { SiBilibili, SiBuymeacoffee, SiJuejin } from "react-icons/si";
+import { SiBilibili } from "react-icons/si";
 
 const OPEN_SOURCE_URL = 'https://github.com/weijunext/landing-page-boilerplate'
 
@@ -34,16 +32,16 @@ const baseSiteConfig = {
   },
   headerLinks: [
     // { name: 'repo', href: OPEN_SOURCE_URL, icon: BsGithub },
-    { name: 'bilibili', href: "https://twitter.com/weijunext", icon: SiBilibili },
-    { name: 'buyMeCoffee', href: "https://www.buymeacoffee.com/weijunext", icon: SiBuymeacoffee }
+    { name: 'bilibili', href: "https://b23.tv/5S7oHiU", icon: SiBilibili },
+    // { name: 'buyMeCoffee', href: "https://www.buymeacoffee.com/weijunext", icon: SiBuymeacoffee }
   ],
   footerLinks: [
-    { name: 'email', href: "mailto:weijunext@gmail.com", icon: MdEmail },
-    { name: 'twitter', href: "https://twitter.com/weijunext", icon: BsTwitterX },
-    { name: 'github', href: "https://github.com/weijunext/", icon: BsGithub },
-    { name: 'buyMeCoffee', href: "https://www.buymeacoffee.com/weijunext", icon: SiBuymeacoffee },
-    { name: 'juejin', href: "https://juejin.cn/user/26044008768029", icon: SiJuejin },
-    { name: 'weChat', href: "https://weijunext.com/make-a-friend", icon: BsWechat }
+    { name: 'bilibili', href: "https://b23.tv/5S7oHiU", icon: SiBilibili },
+    // { name: 'weChat', href: "https://weijunext.com/make-a-friend", icon: BsWechat }
+    // { name: 'twitter', href: "https://twitter.com/weijunext", icon: BsTwitterX },
+    // { name: 'github', href: "https://github.com/weijunext/", icon: BsGithub },
+    // { name: 'buyMeCoffee', href: "https://www.buymeacoffee.com/weijunext", icon: SiBuymeacoffee },
+    // { name: 'juejin', href: "https://juejin.cn/user/26044008768029", icon: SiJuejin },
   ],
   footerProducts: [
     { url: 'https://weijunext.com/', name: 'J实验室' },

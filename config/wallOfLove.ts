@@ -2,74 +2,20 @@
 export const WALL_OF_LOVE = [
   {
     user: {
-      name: "Founder",
-      username: "weijunext",
-      image: "/images/users/weijunext.jpeg",
-    },
-    content:
-      "As a front-end developer, I'm highly satisfied with this landing page template. Editing text and images was very intuitive, and I encountered no technical hurdles throughout the process. The template's responsive design is excellent as well; whether on mobile or desktop, the page layout adapts perfectly. I managed to launch my own product's landing page in just half a day, significantly boosting my efficiency.",
-  },
-  {
-    user: {
-      name: "User1",
-      username: "weijunext",
+      name: "中国贪玩节",
+      username: "HAVE FUN",
       image: "/images/users/1.png",
     },
     content:
-      "This template has given me a new perspective on coding. As a backend developer with not much front-end experience, I found this template to be very user-friendly. I could build a professional-looking landing page with hardly any coding required. This not only saved me time but also sparked more interest in front-end development.",
+      "千岛湖华美胜地度假区端午假期隆重举办中国首届贪玩节。一场以潮流玩乐为主题,以千岛湖独有“水”“岛”为创意元素,联合户外、机车、自行车、皮划艇、腰旗橄榄球、宠物等领域的顶尖社群、俱乐部,共同打造一场展现千岛湖特色、贴合湖岛度假生活方式的精彩潮玩盛宴",
   },
   {
     user: {
-      name: "User2",
-      username: "weijunext",
-      image: "/images/users/2.png",
+      name: "草莓音乐节",
+      username: "STRAWBERRY MUSIC FESTIVAL",
+      image: "/images/users/1.png",
     },
     content:
-      "As a developer who transitioned from design, I'm impressed with the aesthetic design of this template. It's not only easy to use but also comes with a default design that feels both modern and professional. I made some adjustments to the details to match my brand style, and the entire process was both simple and enjoyable.",
-  },
-  {
-    user: {
-      name: "User3",
-      username: "weijunext",
-      image: "/images/users/3.png",
-    },
-    content:
-      "The performance of this template is outstanding, with very fast loading times and SEO-friendly features. As a developer focused on product optimization, I appreciate the high performance and optimization of the template. With simple modifications, I was able to further optimize my landing page, improving the speed at which users can access it. The SEO friendliness of the template also helped my page achieve better rankings in search engines.",
-  },
-  {
-    user: {
-      name: "User4",
-      username: "weijunext",
-      image: "/images/users/4.png",
-    },
-    content:
-      "The interactive elements of this template added a lot of fun to my project. I particularly liked the settings for animations and transition effects, which made the browsing experience richer and more dynamic. Adjusting these interactive elements was very straightforward, requiring no deep front-end knowledge, which was very user-friendly for a non-professional front-end developer like me.",
-  },
-  {
-    user: {
-      name: "User5",
-      username: "weijunext",
-      image: "/images/users/5.png",
-    },
-    content:
-      "This template does a great job with multi-language support, which is crucial for my international project. I was able to easily add different language versions, and the template ensured consistency in layout and design across various languages. This significantly reduced my workload in the localization process and helped me reach global users more quickly.",
-  },
-  {
-    user: {
-      name: "User6",
-      username: "weijunext",
-      image: "/images/users/4.png",
-    },
-    content:
-      "The interactive elements of this template added a lot of fun to my project. I particularly liked the settings for animations and transition effects, which made the browsing experience richer and more dynamic. Adjusting these interactive elements was very straightforward, requiring no deep front-end knowledge, which was very user-friendly for a non-professional front-end developer like me.",
-  },
-  {
-    user: {
-      name: "User7",
-      username: "weijunext",
-      image: "/images/users/5.png",
-    },
-    content:
-      "This template does a great job with multi-language support, which is crucial for my international project. I was able to easily add different language versions, and the template ensured consistency in layout and design across various languages. This significantly reduced my workload in the localization process and helped me reach global users more quickly.",
-  },
+      "草莓音乐节是由中国大陆最大的独立唱片公司摩登天空于2009年创立的一个户外音乐节品牌，该音乐节除了本土音乐人的参与，亦会邀请来自台湾、香港和其他海外国家或地区的艺人进行演出。草莓音乐节的主要举办地点为北京通州运河公园。2013年北京草莓音乐节，三天共接待了超过10万人次的乐迷参加.",
+  }
 ];
